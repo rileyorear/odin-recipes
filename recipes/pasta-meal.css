@@ -1,0 +1,13 @@
+* {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+.pasta {
+  height: 400px;
+  width: auto
+}
+
+.ingredients {
+  list-style-type: none;
+}
