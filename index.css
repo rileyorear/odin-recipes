@@ -4,5 +4,7 @@
 }
 
 ul {
+  display: inline-block;
   list-style-type: none;
+  text-align: left
 }
