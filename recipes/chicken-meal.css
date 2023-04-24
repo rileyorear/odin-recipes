@@ -9,5 +9,8 @@
 }
 
 .ingredients {
+  padding-left: 0px;
+  display: block;
   list-style-type: none;
+  text-align: left
 }
